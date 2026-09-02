@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="32" fill="#16171C"/>
+  <path d="M76 212c16-42 34-42 50 0s34 42 50 0 34-42 50 0" fill="none" stroke="#D81022" stroke-width="15" stroke-linecap="round"/>
+  <text x="258" y="185" fill="#F4F2EE" font-family="Arial, sans-serif" font-size="51" font-weight="800">SOM</text>
+  <text x="414" y="185" fill="#D6A540" font-family="Arial, sans-serif" font-size="51" font-weight="800">FM</text>
+  <text x="260" y="222" fill="#A4A3AD" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">MÚSICA AGORA</text>
+</svg>

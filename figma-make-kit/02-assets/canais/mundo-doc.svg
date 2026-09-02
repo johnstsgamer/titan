@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="32" fill="#16171C"/>
+  <circle cx="128" cy="180" r="78" fill="none" stroke="#F4F2EE" stroke-width="12"/><path d="M53 180h150M128 102c-29 39-29 117 0 156m0-156c29 39 29 117 0 156" fill="none" stroke="#F4F2EE" stroke-width="8"/>
+  <text x="238" y="170" fill="#F4F2EE" font-family="Arial, sans-serif" font-size="42" font-weight="700">MUNDO</text>
+  <text x="240" y="215" fill="#A4A3AD" font-family="Arial, sans-serif" font-size="31" letter-spacing="7">DOC</text>
+</svg>

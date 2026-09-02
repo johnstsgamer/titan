@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="32" fill="#16171C"/>
+  <circle cx="122" cy="180" r="75" fill="#D81022"/><path d="m98 139 65 41-65 41z" fill="#F4F2EE"/>
+  <text x="236" y="180" fill="#F4F2EE" font-family="Arial, sans-serif" font-size="47" font-weight="800">PLAY</text>
+  <text x="238" y="222" fill="#D6A540" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="5">KIDS</text>
+</svg>

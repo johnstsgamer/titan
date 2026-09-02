@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="32" fill="#16171C"/>
+  <rect x="24" y="24" width="10" height="312" rx="5" fill="#D81022"/>
+  <circle cx="132" cy="180" r="76" fill="#D81022"/><path d="M102 134h60v22h-18v70h-24v-70h-18z" fill="#F4F2EE"/>
+  <text x="244" y="169" fill="#F4F2EE" font-family="Arial, sans-serif" font-size="47" font-weight="700">TITAN</text>
+  <text x="244" y="214" fill="#A4A3AD" font-family="Arial, sans-serif" font-size="30" letter-spacing="6">NEWS</text>
+</svg>

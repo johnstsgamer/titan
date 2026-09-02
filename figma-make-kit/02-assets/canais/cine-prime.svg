@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="32" fill="#16171C"/>
+  <rect x="59" y="102" width="136" height="156" rx="18" fill="#D6A540"/><path d="m112 140 58 40-58 40z" fill="#16171C"/>
+  <text x="234" y="169" fill="#F4F2EE" font-family="Georgia, serif" font-size="46" font-weight="700">CINE</text>
+  <text x="234" y="217" fill="#D6A540" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="5">PRIME</text>
+</svg>

@@ -1,0 +1,102 @@
+{
+ "uhf": {
+  "id": 6443751726,
+  "name": "UHF - Love your IPTV",
+  "seller": "Short Wavelength Applications Ltd",
+  "rating": 4.64,
+  "count": 80,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/uhf-love-your-iptv/id6443751726?uo=4",
+  "shots": 6
+ },
+ "implayer": {
+  "id": 6695725513,
+  "name": "iMPlayer IPTV Player",
+  "seller": "Horizon Applications LLC",
+  "rating": 4.81,
+  "count": 154,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/implayer-iptv-player/id6695725513?uo=4",
+  "shots": 6
+ },
+ "ibo-pro": {
+  "id": 6449647925,
+  "name": "ibo Pro Player",
+  "seller": "IRBOETECH CO., LIMITED",
+  "rating": 4.84,
+  "count": 9446,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/ibo-pro-player/id6449647925?uo=4",
+  "shots": 5
+ },
+ "vu-player": {
+  "id": 6526480705,
+  "name": "VU IPTV PLAYER",
+  "seller": "Byte9 Inc",
+  "rating": 4.83,
+  "count": 17456,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/vu-iptv-player/id6526480705?uo=4",
+  "shots": 6
+ },
+ "flix-pro": {
+  "id": 6736839397,
+  "name": "Flix Pro Player",
+  "seller": "Jason Littleton",
+  "rating": 4.85,
+  "count": 33,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/flix-pro-player/id6736839397?uo=4",
+  "shots": 4
+ },
+ "purple": {
+  "id": 1547219704,
+  "name": "Purple Playlist Player",
+  "seller": "Purple Smart TV LLC",
+  "rating": 4.33,
+  "count": 189,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/purple-playlist-player/id1547219704?uo=4",
+  "shots": 4
+ },
+ "mega-iptv": {
+  "id": 1491658839,
+  "name": "Mega IPTV - m3u Player",
+  "seller": "Bazimo GmbH",
+  "rating": 4.45,
+  "count": 3551,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/mega-iptv-m3u-player/id1491658839?uo=4",
+  "shots": 4
+ },
+ "xciptv": {
+  "id": 6471280288,
+  "name": "Xciptv",
+  "seller": "Aicha Ounaissar",
+  "rating": 4.54,
+  "count": 4606,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/xciptv/id6471280288?uo=4",
+  "shots": 4
+ },
+ "iptvx": {
+  "id": 1451470024,
+  "name": "IPTVX",
+  "seller": "Bending X - FZE",
+  "rating": 3.67,
+  "count": 224,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/iptvx/id1451470024?uo=4",
+  "shots": 6
+ },
+ "smarters-lite": {
+  "id": 1628995509,
+  "name": "Smarters Player Lite",
+  "seller": "WHMCS SMARTERS",
+  "rating": 4.85,
+  "count": 259922,
+  "price": "Grátis",
+  "url": "https://apps.apple.com/br/app/smarters-player-lite/id1628995509?uo=4",
+  "shots": 5
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "XCIPTV": {
+  "id": 6775783622,
+  "title": "XCIPTV Player",
+  "subtitle": "Entreteni­mento"
+ },
+ "VisionX": {
+  "id": 6793426094,
+  "title": "IPTV VisionX",
+  "subtitle": "Entreteni­mento"
+ },
+ "IPTV Core": {
+  "id": 6754688595,
+  "title": "IPTV Core: M3U Xtream Player",
+  "subtitle": "Smarters, TV ao Vivo e Futebol"
+ },
+ "SmarterStream": {
+  "id": 6756980211,
+  "title": "Smarter IPTV Stream",
+  "subtitle": "Reprodutor IPTV inteligente"
+ },
+ "TVaoVivo": {
+  "id": 6757142927,
+  "title": "IPTV Player – TV ao Vivo",
+  "subtitle": "Assistir TV online, listas M3U"
+ },
+ "Lit": {
+  "id": 6761062322,
+  "title": "Lit IPTV Player - Smart IPTV",
+  "subtitle": "Create Playlists,Replay TV,EPG"
+ },
+ "Aerial": {
+  "id": 6756782948,
+  "title": "Aerial TV: Reprodutor IPTV",
+  "subtitle": "Sincronize e assista"
+ },
+ "WatchUp": {
+  "id": 6780721320,
+  "title": "WatchUp! IPTV Player",
+  "subtitle": "Simples, rápido e elegante."
+ },
+ "Nuvox": {
+  "id": 6762312509,
+  "title": "Nuvox IPTV",
+  "subtitle": "Nuvox PRO IPTV Stream Player"
+ },
+ "Spark": {
+  "id": 6773453163,
+  "title": "Spark Media Player",
+  "subtitle": "Entreteni­mento"
+ },
+ "Orbizy": {
+  "id": 6759508340,
+  "title": "Orbizy IPTV Player",
+  "subtitle": "M3U &amp; Xtream Codes"
+ },
+ "Flux": {
+  "id": 6748362443,
+  "title": "IPTV Player - Xtream M3U: Flux",
+  "subtitle": "Assista IPTV - VOD, Séries"
+ },
+ "Vuleo": {
+  "id": 6757364859,
+  "title": "Vuleo - Reprodutor de Mídia",
+  "subtitle": "Seus canais, filmes e séries"
+ }
+}
